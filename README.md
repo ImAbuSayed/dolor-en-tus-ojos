@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dolor-en-tus-ojos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Dolor en tus ojos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dolor-en-tus-ojos/) |
+| **Get License** | [Obtain a Music License for Dolor en tus ojos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dolor-en-tus-ojos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `de3bd89fe67785b916ba1d1119d05a1a1dcf2b285fc3771c6d04b3b4d66e5fdf` |
 | **Timestamp** | June 19, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

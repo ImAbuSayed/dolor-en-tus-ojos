@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Dolor en tus ojos
+
+This log tracks the cryptographic history and versioning for the song **Dolor en tus ojos** (dolor-en-tus-ojos).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-19T22:16:18.612528 | `v1` | `de3bd89fe67785b916ba1d1119d05a1a1dcf2b285fc3771c6d04b3b4d66e5fdf` | `06b34de2cf3f36f3f912ac374fca8ce62e128c85e80733d1b64fb07cd434c20f` | `2026-06-19_dolor-en-tus-ojos-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
