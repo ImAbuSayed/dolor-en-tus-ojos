@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dolor-en-tus-ojos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Dolor en tus ojos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dolor-en-tus-ojos/) |
+| **Get License** | [Secure Licensing Rights for Dolor en tus ojos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dolor-en-tus-ojos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Te miro bailando y se para el tiempo, mami, qué locura
+> Ese dolor en tus ojos contrasta con tu figura
+> Me tienes cayendo directo en tu trampa, en tu red oscura
+> Vente conmigo esta noche, te juro seré tu cura
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
